@@ -1,4 +1,4 @@
-student = {"id": 1, "name": "Alice Smith", "age": 20, "grade": "A"}
+student = {"id": 42, "name": "Srujan Mattur", "age": 19 , "grade": "F"}
 
 print(
     f"ID:    {student['id']}\n"
